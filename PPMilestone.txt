@@ -1,0 +1,11 @@
+-While working on this project I decided to create and use a GUI instead of creating an app through Kivy
+-I also decided to focus on one aspect of what I brought up in the Project proposal, which is the interactive calander
+-So far I have accomplished a lot of what I wanted but there are a lot of aspects of the GUI I still with to pursue/improve
+-I used the tkinter python packages to create this GUI
+-So far I was able to create a table with 24 hours and 7 days of the week
+-I spent a lot of my time so far researching different ways I could create a GUI with python and which ways were best for what I wanted to do (creating a calander) 
+-After landing on tkinter, I then spent a lot of time figuring out I could utilize tkinter to actually create a table
+-So far I have learned a lot of what I need to continue the project, but in terms of code all I have so far is a class that populates a tkinter GUI and displays a table with colums for the 7 days of the week and all the times as rows
+-I had the most trouble learning how to use everything I needed in tkinter to produce the table
+-By the end of the project I want to add a function that adds an event and one that deltes an event, making it possible to add to events on everyday of the week and every time, and have multiple events at the same time. Also, if it's possible, I would like a way to decorate my GUI via color or some other way of making it more pleasing to the eye instead of just being white and black
+-Overall I've made good progress with this project but there is still a lot of work I want to do with this project
